@@ -1,0 +1,327 @@
+* Encoding: UTF-8.
+DATASET ACTIVATE DataSet1.
+*Nonparametric Tests: Independent Samples. 
+NPAR TESTS
+/M-W= bactrial BY group(1 2).
+NPAR TESTS
+/M-W= bactrial BY group(1 3).
+NPAR TESTS
+/M-W= bactrial BY group(1 4).
+NPAR TESTS
+/M-W= bactrial BY group(1 5).
+NPAR TESTS
+/M-W= bactrial BY group(1 6).
+NPAR TESTS
+/M-W= bactrial BY group(1 7).
+NPAR TESTS
+/M-W= bactrial BY group(1 8).
+NPAR TESTS
+/M-W= bactrial BY group(1 9).
+NPAR TESTS
+/M-W= bactrial BY group(1 10).
+NPAR TESTS
+/M-W= bactrial BY group(1 11).
+NPAR TESTS
+/M-W= bactrial BY group(1 12).
+NPAR TESTS
+/M-W= bactrial BY group(1 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(2 1).
+NPAR TESTS
+/M-W= bactrial BY group(2 3).
+NPAR TESTS
+/M-W= bactrial BY group(2 4).
+NPAR TESTS
+/M-W= bactrial BY group(2 5).
+NPAR TESTS
+/M-W= bactrial BY group(2 6).
+NPAR TESTS
+/M-W= bactrial BY group(2 7).
+NPAR TESTS
+/M-W= bactrial BY group(2 8).
+NPAR TESTS
+/M-W= bactrial BY group(2 9).
+NPAR TESTS
+/M-W= bactrial BY group(2 10).
+NPAR TESTS
+/M-W= bactrial BY group(2 11).
+NPAR TESTS
+/M-W= bactrial BY group(2 12).
+NPAR TESTS
+/M-W= bactrial BY group(2 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(3 1).
+NPAR TESTS
+/M-W= bactrial BY group(3 2).
+NPAR TESTS
+/M-W= bactrial BY group(3 4).
+NPAR TESTS
+/M-W= bactrial BY group(3 5).
+NPAR TESTS
+/M-W= bactrial BY group(3 6).
+NPAR TESTS
+/M-W= bactrial BY group(3 7).
+NPAR TESTS
+/M-W= bactrial BY group(3 8).
+NPAR TESTS
+/M-W= bactrial BY group(3 9).
+NPAR TESTS
+/M-W= bactrial BY group(3 10).
+NPAR TESTS
+/M-W= bactrial BY group(3 11).
+NPAR TESTS
+/M-W= bactrial BY group(3 12).
+NPAR TESTS
+/M-W= bactrial BY group(3 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(4 1).
+NPAR TESTS
+/M-W= bactrial BY group(4 2).
+NPAR TESTS
+/M-W= bactrial BY group(4 3).
+NPAR TESTS
+/M-W= bactrial BY group(4 5).
+NPAR TESTS
+/M-W= bactrial BY group(4 6).
+NPAR TESTS
+/M-W= bactrial BY group(4 7).
+NPAR TESTS
+/M-W= bactrial BY group(4 8).
+NPAR TESTS
+/M-W= bactrial BY group(4 9).
+NPAR TESTS
+/M-W= bactrial BY group(4 10).
+NPAR TESTS
+/M-W= bactrial BY group(4 11).
+NPAR TESTS
+/M-W= bactrial BY group(4 12).
+NPAR TESTS
+/M-W= bactrial BY group(4 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(5 1).
+NPAR TESTS
+/M-W= bactrial BY group(5 2).
+NPAR TESTS
+/M-W= bactrial BY group(5 3).
+NPAR TESTS
+/M-W= bactrial BY group(5 4).
+NPAR TESTS
+/M-W= bactrial BY group(5 6).
+NPAR TESTS
+/M-W= bactrial BY group(5 7).
+NPAR TESTS
+/M-W= bactrial BY group(5 8).
+NPAR TESTS
+/M-W= bactrial BY group(5 9).
+NPAR TESTS
+/M-W= bactrial BY group(5 10).
+NPAR TESTS
+/M-W= bactrial BY group(5 11).
+NPAR TESTS
+/M-W= bactrial BY group(5 12).
+NPAR TESTS
+/M-W= bactrial BY group(5 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(6 1).
+NPAR TESTS
+/M-W= bactrial BY group(6 2).
+NPAR TESTS
+/M-W= bactrial BY group(6 3).
+NPAR TESTS
+/M-W= bactrial BY group(6 4).
+NPAR TESTS
+/M-W= bactrial BY group(6 5).
+NPAR TESTS
+/M-W= bactrial BY group(6 7).
+NPAR TESTS
+/M-W= bactrial BY group(6 8).
+NPAR TESTS
+/M-W= bactrial BY group(6 9).
+NPAR TESTS
+/M-W= bactrial BY group(6 10).
+NPAR TESTS
+/M-W= bactrial BY group(6 11).
+NPAR TESTS
+/M-W= bactrial BY group(6 12).
+NPAR TESTS
+/M-W= bactrial BY group(6 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(7 1).
+NPAR TESTS
+/M-W= bactrial BY group(7 2).
+NPAR TESTS
+/M-W= bactrial BY group(7 3).
+NPAR TESTS
+/M-W= bactrial BY group(7 4).
+NPAR TESTS
+/M-W= bactrial BY group(7 5).
+NPAR TESTS
+/M-W= bactrial BY group(7 6).
+NPAR TESTS
+/M-W= bactrial BY group(7 8).
+NPAR TESTS
+/M-W= bactrial BY group(7 9).
+NPAR TESTS
+/M-W= bactrial BY group(7 10).
+NPAR TESTS
+/M-W= bactrial BY group(7 11).
+NPAR TESTS
+/M-W= bactrial BY group(7 12).
+NPAR TESTS
+/M-W= bactrial BY group(7 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(8 1).
+NPAR TESTS
+/M-W= bactrial BY group(8 2).
+NPAR TESTS
+/M-W= bactrial BY group(8 3).
+NPAR TESTS
+/M-W= bactrial BY group(8 4).
+NPAR TESTS
+/M-W= bactrial BY group(8 5).
+NPAR TESTS
+/M-W= bactrial BY group(8 6).
+NPAR TESTS
+/M-W= bactrial BY group(8 7).
+NPAR TESTS
+/M-W= bactrial BY group(8 9).
+NPAR TESTS
+/M-W= bactrial BY group(8 10).
+NPAR TESTS
+/M-W= bactrial BY group(8 11).
+NPAR TESTS
+/M-W= bactrial BY group(8 12).
+NPAR TESTS
+/M-W= bactrial BY group(8 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(9 1).
+NPAR TESTS
+/M-W= bactrial BY group(9 2).
+NPAR TESTS
+/M-W= bactrial BY group(9 3).
+NPAR TESTS
+/M-W= bactrial BY group(9 4).
+NPAR TESTS
+/M-W= bactrial BY group(9 5).
+NPAR TESTS
+/M-W= bactrial BY group(9 6).
+NPAR TESTS
+/M-W= bactrial BY group(9 7).
+NPAR TESTS
+/M-W= bactrial BY group(9 8).
+NPAR TESTS
+/M-W= bactrial BY group(9 10).
+NPAR TESTS
+/M-W= bactrial BY group(9 11).
+NPAR TESTS
+/M-W= bactrial BY group(9 12).
+NPAR TESTS
+/M-W= bactrial BY group(9 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(10 1).
+NPAR TESTS
+/M-W= bactrial BY group(10 2).
+NPAR TESTS
+/M-W= bactrial BY group(10 3).
+NPAR TESTS
+/M-W= bactrial BY group(10 4).
+NPAR TESTS
+/M-W= bactrial BY group(10 5).
+NPAR TESTS
+/M-W= bactrial BY group(10 6).
+NPAR TESTS
+/M-W= bactrial BY group(10 7).
+NPAR TESTS
+/M-W= bactrial BY group(10 8).
+NPAR TESTS
+/M-W= bactrial BY group(10 9).
+NPAR TESTS
+/M-W= bactrial BY group(10 11).
+NPAR TESTS
+/M-W= bactrial BY group(10 12).
+NPAR TESTS
+/M-W= bactrial BY group(10 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(11 1).
+NPAR TESTS
+/M-W= bactrial BY group(11 2).
+NPAR TESTS
+/M-W= bactrial BY group(11 3).
+NPAR TESTS
+/M-W= bactrial BY group(11 4).
+NPAR TESTS
+/M-W= bactrial BY group(11 5).
+NPAR TESTS
+/M-W= bactrial BY group(11 6).
+NPAR TESTS
+/M-W= bactrial BY group(11 7).
+NPAR TESTS
+/M-W= bactrial BY group(11 8).
+NPAR TESTS
+/M-W= bactrial BY group(11 9).
+NPAR TESTS
+/M-W= bactrial BY group(11 10).
+NPAR TESTS
+/M-W= bactrial BY group(11 12).
+NPAR TESTS
+/M-W= bactrial BY group(11 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(12 1).
+NPAR TESTS
+/M-W= bactrial BY group(12 2).
+NPAR TESTS
+/M-W= bactrial BY group(12 3).
+NPAR TESTS
+/M-W= bactrial BY group(12 4).
+NPAR TESTS
+/M-W= bactrial BY group(12 5).
+NPAR TESTS
+/M-W= bactrial BY group(12 6).
+NPAR TESTS
+/M-W= bactrial BY group(12 7).
+NPAR TESTS
+/M-W= bactrial BY group(12 8).
+NPAR TESTS
+/M-W= bactrial BY group(12 9).
+NPAR TESTS
+/M-W= bactrial BY group(12 10).
+NPAR TESTS
+/M-W= bactrial BY group(12 11).
+NPAR TESTS
+/M-W= bactrial BY group(12 13).
+
+NPAR TESTS
+/M-W= bactrial BY group(13 1).
+NPAR TESTS
+/M-W= bactrial BY group(13 2).
+NPAR TESTS
+/M-W= bactrial BY group(13 3).
+NPAR TESTS
+/M-W= bactrial BY group(13 4).
+NPAR TESTS
+/M-W= bactrial BY group(13 5).
+NPAR TESTS
+/M-W= bactrial BY group(13 6).
+NPAR TESTS
+/M-W= bactrial BY group(13 7).
+NPAR TESTS
+/M-W= bactrial BY group(13 8).
+NPAR TESTS
+/M-W= bactrial BY group(13 9).
+NPAR TESTS
+/M-W= bactrial BY group(13 10).
+NPAR TESTS
+/M-W= bactrial BY group(13 11).
+NPAR TESTS
+/M-W= bactrial BY group(13 12).
